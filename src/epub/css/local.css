@@ -30,6 +30,17 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
+/* Letters */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+/* End letters */
+
 /* Poetry */
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
@@ -75,8 +86,8 @@ p span.i1{
 
 #chapter-1-7 > [epub|type~="z3998:song"] > p:nth-child(3){
 	float: left;
-	margin-left: 1em;
 	margin-bottom: 1em;
+	margin-left: 1em;
 }
 
 #chapter-1-7 > [epub|type~="z3998:song"] > p:nth-child(4){
