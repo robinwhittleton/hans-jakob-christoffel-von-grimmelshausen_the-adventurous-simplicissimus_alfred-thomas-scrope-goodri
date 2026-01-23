@@ -30,6 +30,10 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
+section[epub|type~="dedication"] b:nth-of-type(2){
+	font-size: 1.5em;
+}
+
 /* Letters */
 footer{
 	margin-top: 1em;
