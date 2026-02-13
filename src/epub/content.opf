@@ -44,14 +44,16 @@
 		<meta property="authority" refines="#subject-2">LCHS</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The life and times of a young man during the Thirty Years’ War in Germany.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The horrors of the Thirty Years’ War hadn’t previous touched the life of the young boy living in the Spessart in seventeenth-century Germany, but his accidental leading of a group of Landsknechte back to the family farm is a disaster that leaves him homeless and wandering in the forest alone. A chance meeting with a hermit ends up giving him a name—Simplicius Simplicissimus—and a new-found appreciation for the Christian faith, but this comparative calm can only last for so long, before he’s thrown back into the wider context of the ongoing war. Starting as a soldier, Simplicissimus is tossed from one adventure to the next, each more incredible than the last.&lt;/p&gt;
+			&lt;p&gt;Published in 1668 and 1669, &lt;i&gt;The Adventurous Simplicissimus&lt;/i&gt; has had an enduring legacy both as a satirical picaresque novel, and as a historical recollection of the injustices of the Thirty Years’ War. &lt;a href="https://standardebooks.org/ebooks/hans-jakob-christoffel-von-grimmelshausen"&gt;Hans Jakob Christoffel von Grimmelshausen&lt;/a&gt; had been been a soldier during that conflict, but in later life he later become a magistrate, giving him the opportunity to write and to reflect on his own experiences; something that is a key part of Simplicissimus’s own approach.&lt;/p&gt;
+			&lt;p&gt;The stories have received much praise over the years, and have even been seen to be the genesis of the adventure novel genre. &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann&lt;/a&gt; was a fan of its “involuntary magnificence” and Johann Strauss transposed the story to an operetta.&lt;/p&gt;
+			&lt;p&gt;The from 1912 translation presented here is somewhat idiosyncratic; Goodrick seems to have chosen to simply not translate the handful of parts he found most boring or scandalous, and leaves out the majority of the sixth book as “monotonous,” with the exception of an appendix containing the final few chapters where Simplicissimus is stranded on an uninhabited island. It would take another fifty years for an unexpurgated English translation to arrive.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33858</dc:source>
 		<dc:source>https://archive.org/details/adventuroussimpl00grimrich</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Simplicius_Simplicissimus</meta>
