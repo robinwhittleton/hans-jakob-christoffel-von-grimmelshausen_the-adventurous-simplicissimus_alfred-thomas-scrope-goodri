@@ -2,10 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-q{
-	font-style: italic;
-}
-
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
