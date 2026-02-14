@@ -148,6 +148,13 @@ table[epub|type~="z3998:drama"]{
 }
 /* end dialog */
 
+/* numbered stanzas in book 1 chapter 3 */
+[epub|type~="z3998:song"] header > p{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
 /* “Chorus” header in one song */
 #chapter-1-7 > [epub|type~="z3998:song"]{
 	display: flow-root;
